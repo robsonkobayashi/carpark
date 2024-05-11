@@ -1,7 +1,7 @@
 # carpark
 Sistema de controle de acesso de veículos cadastrados: Script inicial apenas identifica a placa do carro e busca em um banco de dados fictício. Caso identifique, informa os dados cadastrados no BD. Se não está cadastrado irá descrever as informações (além de poder enviar a imagem junto se o sistema de mensagem aceitar)
 
-# MELHORIAS
+# MELHORIAS FUTURAS
 
 - Busca em banco de dados
 - Envio de alerta para contato cadastrado no sistema
